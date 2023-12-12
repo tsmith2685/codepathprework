@@ -28,16 +28,16 @@ The following **required** functionality is completed:
 ## App Brainstorming (Step 4)
 
 Book App
--can drag the page like an actual book
--can change the color of the pages
+- can drag the page like an actual book
+- can change the color of the pages
 
 IMessage
 - can send audio messages
 - can edit messages
 
 X
--can add pictures in comments
--can go on dark mode 
+- can add pictures in comments
+- can go on dark mode 
 
 I would like to build a To-do list app accompanied with a pomdoro timer that when a task is crossed off it sends a "celebration across the screen." Another feature I would to add is putting a time-sensitive reminder that alerts the user on a specific to-do.
 
