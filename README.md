@@ -16,9 +16,15 @@ The following **required** functionality is completed:
 - [ ] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
+<div>
+    <a href="https://www.loom.com/share/cb3f3c9a8399464abab85d040b179355">
+    </a>
+    <a href="https://www.loom.com/share/cb3f3c9a8399464abab85d040b179355">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/cb3f3c9a8399464abab85d040b179355-with-play.gif">
+    </a>
+  </div>
 
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/cb3f3c9a8399464abab85d040b179355?sid=57e6e003-95c6-40f2-a4df-72f2df19e674" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+  
 ## App Brainstorming (Step 4)
 
 Book App
